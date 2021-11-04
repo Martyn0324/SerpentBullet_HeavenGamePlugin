@@ -24,8 +24,9 @@ class Bullet_HeavenAPI(GameAPI):
                 "Nothing": []
             },
         }
-
-
+        
+        # Using some samples of coordinates for mouse mapping.
+        # Unfortunately, I couldn't think about a more effective way to do so.
         self.game_inputs2 = {
             "MOUSE": {
                 "A,1": [MouseEvent(MouseEvents.MOVE,  x=406, y=883)],
