@@ -10,7 +10,7 @@ The best I could do was to reduced those inputs based on the probability someone
 
 ## Take a look at this screenshot
 
-![](https://cdn.discordapp.com/attachments/496108921635995648/909949541036462210/bullet_heaven_reduced.png)
+![bullet_heaven_reduced](https://user-images.githubusercontent.com/28028007/142492235-a8eeda00-f108-40bd-988d-a2ca894e90b4.png)
 
 The red boxes indicates screen regions that have been removed from the input mapping, which resulted in the file input_reduced.py. The explanation for this removal is simple: since the game is a bullet hell, there's no reason for someone to move the cursor into the boxes at each side of the screen, where one will find only visual information.
 
