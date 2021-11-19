@@ -8,7 +8,7 @@ Good way to test SerpentAI for mouse commands, something that it seems not many 
 
 ~~The best I could do was to reduced those inputs based on the probability someone would click on each point of the screen.~~
 
-140 Mb, or even its reduced version with 80 Mb of code, demanded more than 200 Gb of a GPU's memory. Considering that the NVidia Tesla T4 GPUs, the most common one in AWS and a quite good one used by Google Cloud, has 16 Gb in its memory, using 200 Gb is impracticable. Only an enterprise like OpenAI would be able to withstand something bizarre as this.
+140 Mb, or even its reduced version with 80 Mb of code, demanded more than 200 Gb of a GPU's memory. Considering that the NVidia Tesla T4 GPUs, the most common one in AWS and a quite good one used by Google Cloud, has 16 Gb in its memory, using 200 Gb is impracticable. Only an enterprise like OpenAI would be able to withstand the costs caused by something as bizarre as this.
 
 Because of this, a new way of getting move functions for the mouse was mandatory. Fortunately, this time I managed to think about something.
 
